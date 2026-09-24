@@ -34,8 +34,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saulogarcia&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulogarcia&layout=compact&theme=tokyonight&hide=html,css" />
+  <img src="https://streak-stats.demolab.com/?user=saulogarcia&theme=tokyonight&hide_border=true" alt="Saulo's GitHub Streak" />
 </p>
 
 ---
