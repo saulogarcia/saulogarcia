@@ -27,7 +27,7 @@
 `Google Cloud Platform (GCP)` `Kubernetes` `Docker` `Terraform` `CI/CD` `Linux` `Bash`
 
 **Development & Backend:**
-`Java` `Spring Boot` `Python` `FastAPI` `JavaScript` `Node.js` `PostgreSQL` `MongoDB`
+`Java` `Spring Boot` `Python` `Ruby on Rails` `JavaScript` `Next.js` `PostgreSQL` `MongoDB`
 
 ---
 
