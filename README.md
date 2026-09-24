@@ -16,7 +16,7 @@
 - 🛠️ **Core Strength:** Strong background in **DevOps, Linux Kernel, Cloud (GCP), Docker, Kubernetes, and CI/CD pipelines**.
 - 📚 **Current Learning:** Expanding my skill set into **Full Stack Web Development** (Java, Spring Boot, JavaScript/TypeScript, Python, Ruby on Rails and MongoDB).
 - 🔧 **Tech Tinkerer:** Passionate about PC building, hardware repair, network setups, and process automation.
-- 🎮 **Personal Interests:** Huge Metroidvania and gaming fan, cooking enthusiast, and lifelong learner.
+- 🎮 **Personal Interests:** Snowboarding enthusiast, Metroidvania & gaming fan, cooking lover, and lifelong learner.
 - 🎯 **Focus:** Building production-ready, end-to-end software and understanding the *"why"* behind tech decisions.
 
 ---
