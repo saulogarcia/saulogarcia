@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saulo-lazaro-garcia">💼 LinkedIn</a>
+  <a href="https://linkedin.com/in/saulo-lazaro-garcia" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
